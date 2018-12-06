@@ -22,4 +22,14 @@ Tested on Linux and on Android running Termux.
 
 On Termux the default dateformat including milliseconds does not yet work, minor issue...
 
+### Screenshots
+
+on Mint
+
 ![Alt text](/screenshot_linux.png?raw=true "screenshot linux")
+
+
+On Termux (actually an older version of the script:
+
+![Alt text](/screenshot_termux.png?raw=true "screenshot Termux")
+
